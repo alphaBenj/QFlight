@@ -1,0 +1,7 @@
+# 1> make a copy of this file with name of ".env"
+#  (hint>>   cp env_copy.text  .env )
+# 2> edit with correct data 
+
+endpoint     ='https://cloud.kdb.ai/#############'
+api_key1     ='6f5ea16690-##################'
+api_key2     ='34308f5ffe-###################'
